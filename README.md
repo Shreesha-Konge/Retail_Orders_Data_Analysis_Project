@@ -20,7 +20,7 @@ Tools & Technologies used :
 1) Extract: Data was sourced from the Kaggle retail orders dataset, downloaded and extracted using Python.
 2) Transform: Data cleaning was performed using Python—handling missing values, converting data types, renaming columns, and deriving new columns (e.g., discount, sale price, and profit).
 Additional transformations included dropping irrelevant columns and calculating key metrics such as month-over-month growth.
-3) Load: The cleaned and transformed data was loaded into Microsoft SQL Server using SQLAlchemy for further querying and analysis.
+3) Load: The cleaned and transformed data was loaded into PostgreSQL using SQLAlchemy for further querying and analysis.
 4) Analyze: SQL was used to perform advanced analysis, identifying top products, category performance, and growth trends.
 
 Key Insights : 
