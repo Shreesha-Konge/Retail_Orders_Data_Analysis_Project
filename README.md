@@ -15,7 +15,7 @@ Tools & Technologies used :
 5) PostgreSQL:
 * Database management system used to store, query, and analyze the cleaned data.
 
-* ETL (Extract, Transform, Load) process in the Retail Orders Data Analysis project involved:
+ETL (Extract, Transform, Load) process in the Retail Orders Data Analysis project involved:
 
 1) Extract: Data was sourced from the Kaggle retail orders dataset, downloaded and extracted using Python.
 2) Transform: Data cleaning was performed using Python—handling missing values, converting data types, renaming columns, and deriving new columns (e.g., discount, sale price, and profit).
